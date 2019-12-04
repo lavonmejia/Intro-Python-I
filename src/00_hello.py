@@ -2,4 +2,3 @@
 
 i = "Hello, world!"
 print(i)
-Hello, world!
