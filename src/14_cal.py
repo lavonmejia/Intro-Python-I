@@ -23,5 +23,8 @@ import sys
 import calendar
 from datetime import datetime
 
-input(yy,mm)
+input()
+yy = 2019 
+mm = 6
+
 print(calendar.month(yy,mm))
